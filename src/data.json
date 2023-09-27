@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/939v24h/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "card_bg": "rgba(0, 82, 255, 0.15)",
+    "category_bg": "rgba(0, 82, 255, 0.20)",
+    "text_button_bg": "#0052FF",
+    "description": "Provide clean drinking water to children in underprivileged areas. Access to clean and safe drinking water is a fundamental right that many children in impoverished regions do not have. Lack of clean water can lead to waterborne diseases and health issues. By supporting this initiative, you are helping us bring clean water sources closer to these children, ensuring their health and well-being. We install water filtration systems, dig wells, and educate communities about water hygiene practices. Your donation of $10 can provide clean water to one child for a month.",
+    "price": "$10"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/tC2pqKf/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "card_bg": "rgba(255, 68, 74, 0.15)",
+    "category_bg": "rgba(255, 68, 74, 0.20)",
+    "text_button_bg": "#FF444A",
+    "description": "Provide quality education to underprivileged children. Education is the key to breaking the cycle of poverty, and every child deserves access to a good education. This initiative focuses on improving educational opportunities for children in underserved communities. We establish schools, provide learning materials, and support teachers. Your donation of $20 can help us provide a year's worth of education to a child who otherwise might not have had the chance to attend school.",
+    "price": "$20"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/ZTbPzGf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "card_bg": "rgba(121, 194, 63, 0.15)",
+    "category_bg": "rgba(121, 194, 63, 0.20)",
+    "text_button_bg": "#79C23F",
+    "description": "Collect and distribute used clothing to people in need. Clothing is a basic necessity, but many individuals and families struggle to afford suitable clothing. This initiative aims to address this issue by organizing clothing drives and distributing gently used clothing items to those in need. Your support can make a significant difference in the lives of people who lack adequate clothing. A donation of $5 can provide warm clothing to a person in need during the cold winter months.",
+    "price": "$5"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/J3gvXSv/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "card_bg": "rgba(248, 113, 71, 0.15)",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "text_button_bg": "#F87147",
+    "description": "Provide healthy and nutritious food to people in need. Access to nutritious food is essential for a healthy life, but many individuals and families struggle to afford it. This initiative focuses on improving food security by distributing fresh and healthy food to underserved communities. Your donation of $15 can provide a week's worth of nutritious meals to a family facing food insecurity.",
+    "price": "$15"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/939v24h/Health.png",
+    "title": "Medical Supplies for Rural Areas",
+    "category": "Health",
+    "card_bg": "rgba(0, 82, 255, 0.15)",
+    "category_bg": "rgba(0, 82, 255, 0.20)",
+    "text_button_bg": "#0052FF",
+    "description": "Provide medical supplies to rural areas where access to healthcare is limited. Many rural areas lack access to basic medical supplies and healthcare services. This initiative seeks to bridge that gap by delivering essential medical supplies to clinics and healthcare facilities in remote regions. Your support can help save lives by ensuring that healthcare providers have the necessary tools to treat patients effectively. A donation of $25 can supply a rural clinic with vital medical equipment.",
+    "price": "$25"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/tC2pqKf/Education.png",
+    "title": "Scholarships for Girls' Education",
+    "category": "Education",
+    "card_bg": "rgba(255, 68, 74, 0.15)",
+    "category_bg": "rgba(255, 68, 74, 0.20)",
+    "text_button_bg": "#FF444A",
+    "description": "Provide scholarships to girls who are unable to afford education. Gender equality in education is a crucial goal, and this initiative aims to empower girls by providing scholarships for their education. Your donation of $30 can help break down barriers to education for girls, allowing them to pursue their dreams and build a brighter future.",
+    "price": "$30"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/ZTbPzGf/Clothing.png",
+    "title": "Winter Clothing Drive for Homeless People",
+    "category": "Clothing",
+    "card_bg": "rgba(121, 194, 63, 0.15)",
+    "category_bg": "rgba(121, 194, 63, 0.20)",
+    "text_button_bg": "#79C23F",
+    "description": "Collect and distribute winter clothing to homeless people. Homeless individuals face harsh conditions during the winter months, and access to warm clothing is vital for their well-being. This initiative collects winter clothing items and distributes them to those in need. Your donation of $10 can provide a warm winter coat to a homeless person, offering them comfort and protection from the cold.",
+    "price": "$10"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/J3gvXSv/Food.png",
+    "title": "Food Bank for Low-Income Families",
+    "category": "Food",
+    "card_bg": "rgba(248, 113, 71, 0.15)",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "text_button_bg": "#F87147",
+    "description": "Establish a food bank for low-income families who are unable to afford nutritious food. Food insecurity is a pressing issue for many low-income families. This initiative establishes a food bank to provide essential groceries and nutritious meals to those in need. Your donation of $40 can help us maintain the food bank and ensure that low-income families have access to quality food, promoting their well-being and nutrition.",
+    "price": "$40"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/939v24h/Health.png",
+    "title": "Mental Health Support for Children and Adolescents",
+    "category": "Health",
+    "card_bg": "rgba(0, 82, 255, 0.15)",
+    "category_bg": "rgba(0, 82, 255, 0.20)",
+    "text_button_bg": "#0052FF",
+    "description": "Provide mental health support to children and adolescents in need. Mental health is just as important as physical health, especially for young individuals. This initiative focuses on offering counseling and mental health services to children and adolescents facing emotional challenges. Your support can make a significant impact on their lives, helping them cope with stress, anxiety, and depression. A donation of $35 can provide a counseling session for a young person in need of mental health support.",
+    "price": "$35"
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/tC2pqKf/Education.png",
+    "title": "Scholarships for Higher Education",
+    "category": "Education",
+    "card_bg": "rgba(255, 68, 74, 0.15)",
+    "category_bg": "rgba(255, 68, 74, 0.20)",
+    "text_button_bg": "#FF444A",
+    "description": "Offer scholarships to students pursuing higher education. Access to higher education can transform lives and open doors to new opportunities. This initiative aims to provide scholarships to deserving students who aspire to pursue higher education but face financial barriers. Your donation of $50 can help a talented student fulfill their dreams of attending college or university, setting them on a path to success and personal growth.",
+    "price": "$50"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/ZTbPzGf/Clothing.png",
+    "title": "Clothing Drive for Disaster Victims",
+    "category": "Clothing",
+    "card_bg": "rgba(121, 194, 63, 0.15)",
+    "category_bg": "rgba(121, 194, 63, 0.20)",
+    "text_button_bg": "#79C23F",
+    "description": "Collect and distribute clothing to victims of natural disasters. When natural disasters strike, many people lose their homes and possessions, including clothing. This initiative organizes clothing drives to provide immediate relief to disaster victims. Your support can help these individuals rebuild their lives with dignity. A donation of $10 can provide essential clothing items to a disaster-affected family, offering them warmth and comfort during difficult times.",
+    "price": "$10"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/J3gvXSv/Food.png",
+    "title": "Meals for the Elderly",
+    "category": "Food",
+    "card_bg": "rgba(248, 113, 71, 0.15)",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "text_button_bg": "#F87147",
+    "description": "Provide nutritious meals to elderly individuals who are unable to cook for themselves. Many elderly individuals face challenges in preparing their meals due to physical limitations or health issues. This initiative delivers nutritious and well-balanced meals to elderly individuals, ensuring they receive the nourishment they need. Your donation of $8 can provide a week's worth of nutritious meals to an elderly person, enhancing their quality of life and overall health.",
+    "price": "$8"
+  }
+]
